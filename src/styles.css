@@ -1,1 +1,109 @@
 /* You can add global styles to this file, and also import other style files */
+
+.description-gasoducto {
+  color: #313437;
+  background-color: #eef4f7;
+}
+
+.description-gasoducto p{
+  color: #7d8285;
+}
+
+.description-gasoducto h1 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+}
+
+@media (max-width:767px) {
+  .description-gasoducto h1 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.description-gasoducto .detalle{
+  padding: 50px 0;
+}
+
+.description-gasoducto .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.description-gasoducto .intro p {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.card-deck{
+  text-align: center;
+  padding: 50px 0;
+  }
+
+  .card-title{
+
+  }
+
+
+
+.puntos-inyeccion-list{
+  padding: 50px 0;
+  color: #313437;
+  background-color: white;
+}
+
+.puntos-inyeccion-list .intro {
+ font-size: 16px;
+ max-width: 500px;
+ margin: 0 auto;
+}
+
+.puntos-inyeccion-list p{
+  margin-bottom: 0;
+  color: #7d8285;
+}
+
+.puntos-inyeccion-list .h2{
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+}
+
+.puntos-inyeccion-list .punto-inyeccion{
+ padding-bottom: 40px;
+}
+
+.punto-inyeccion-list .item {
+  padding-top: 50px;
+  min-height: 425px;
+  text-align: center;
+
+}
+
+.puntos-entrega-list{
+  padding: 50px 0;
+}
+
+.puntos-entrega-list .intro {
+ font-size: 16px;
+ max-width: 500px;
+ margin: 0 auto;
+}
+
+.puntos-entrega-list .h2{
+  margin-bottom: 25px;
+  padding-top: 25px;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+ }
+
+
