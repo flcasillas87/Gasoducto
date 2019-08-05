@@ -1,5 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 
+/*Seccion Desripcion*/
 .description-gasoducto {
   color: #313437;
   background-color: #eef4f7;
@@ -45,11 +46,7 @@
   padding: 50px 0;
   }
 
-  .card-title{
-
-  }
-
-
+ /*Seccion de puntos de inyeccion*/
 
 .puntos-inyeccion-list{
   padding: 50px 0;
@@ -86,6 +83,7 @@
 
 }
 
+/*Seccion Puntos de Entrega*/
 .puntos-entrega-list{
   padding: 50px 0;
 }
